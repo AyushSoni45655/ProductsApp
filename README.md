@@ -15,7 +15,7 @@ Key Features:
 4 Responsive Design: Offers a seamless experience across devices of all screen sizes.
 
 Technical Details:
-<a href = " ">![App Screenshot](https://ibb.co/3rdyPyy)</a>
+<a href = "https://github.com/AyushSoni45655/ProductsApp/releases/download/1.0.0/ProductApp.apk">![App Screenshot](https://ibb.co/3rdyPyy)</a>
 Flutter: Used for designing and developing the user interface.
 
 Dart: Handles application logic and backend communication.
