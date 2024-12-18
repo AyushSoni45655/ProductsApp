@@ -16,7 +16,7 @@ Key Features:
 
 Technical Details:
 
-<a href = "https://github.com/AyushSoni45655/ProductsApp/releases/download/1.0.0/ProductApp.apk">![downLoad](https://ibb.co/3rdyPyy)</a>
+<a href = "https://github.com/AyushSoni45655/ProductsApp/releases/download/1.0.0/ProductApp.apk">![downLoad Product App](https://ibb.co/3rdyPyy)</a>
 
 Flutter: Used for designing and developing the user interface.
 
